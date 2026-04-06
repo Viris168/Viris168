@@ -4,9 +4,6 @@
 
 <img align="right" alt = "code" width="400" src = "https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeXk2dThvNmE1ajNtYXpodGNqcTVhdmtvamNoa2NxNGx5N3A4Z3c0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif">
 
-<h1 align="center">Hi 👋, I'm Vireak SOK</h1>
-<h3 align="center">A Software Engineering</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viris168&label=Profile%20views&color=0e75b6&style=flat" alt="viris168" /> </p>
 
 - 🔭 I’m currently working on [BookingMe_I3](https://github.com/Viris168/BookingMe_I3.git)
