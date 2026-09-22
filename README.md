@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viris168&label=Profile%20views&color=0e75b6&style=flat" alt="viris168" /> </p>
 
-- 🔭 I’m currently working on [Event-Booking]((https://github.com/Viris168/Event-Booking.git))
+- 🔭 I’m currently working on [Event-Booking](https://github.com/Viris168/Event-Booking.git)
 
 - 🌱 I’m currently learning **Frontend, Agentic AI**
 
