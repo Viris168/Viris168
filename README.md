@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Event-Booking](https://github.com/Viris168/Event-Booking.git)
 
-- 🌱 I’m currently learning **Frontend, Agentic AI**
+- 🌱 I’m currently learning **FullStack, Agentic AI**
 
 - 💬 Ask me about **Netbeans**
 
